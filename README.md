@@ -1,4 +1,4 @@
-# SalariosSexoRais - Visuzlizações Data Science Academy
+# SalariosSexoRais - Visualizações Data Science Academy
 
 **Diferença salarial Homens x Mulheres (RAIS 2017)**
 
